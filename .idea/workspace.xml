@@ -26,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JooxTRUdvhrGrgi0gBDXrTil1f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +44,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -52,6 +54,26 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BirthDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10.BirthDayTest" />
+      <module name="oop-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BirthDayTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +86,7 @@
       <workItem from="1672754232055" duration="2463000" />
       <workItem from="1672757051825" duration="1576000" />
       <workItem from="1672841474014" duration="162000" />
-      <workItem from="1672841870881" duration="1493000" />
+      <workItem from="1672841870881" duration="2404000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE : Ch05 인스턴스와 힙 메모리">
       <created>1672757073071</created>
