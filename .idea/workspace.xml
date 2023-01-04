@@ -28,6 +28,7 @@
   <component name="ProjectId" id="2JooxTRUdvhrGrgi0gBDXrTil1f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -41,7 +42,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -63,7 +64,7 @@
       <workItem from="1672754232055" duration="2463000" />
       <workItem from="1672757051825" duration="1576000" />
       <workItem from="1672841474014" duration="162000" />
-      <workItem from="1672841870881" duration="841000" />
+      <workItem from="1672841870881" duration="1493000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE : Ch05 인스턴스와 힙 메모리">
       <created>1672757073071</created>
