@@ -1,4 +1,4 @@
-package ch06;
+package part2.ch06;
 
 public class StudentTest {
     public static void  main(String[] args) {

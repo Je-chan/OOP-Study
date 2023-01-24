@@ -1,4 +1,4 @@
-package ch14;
+package part2.ch14;
 
 public class Student {
 

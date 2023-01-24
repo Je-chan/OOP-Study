@@ -1,4 +1,4 @@
-package ch21;
+package part2.ch21;
 
 public class Book {
 

@@ -1,6 +1,4 @@
-package ch21;
-
-import java.util.Arrays;
+package part2.ch21;
 
 public class ObjectCopyTest {
     public static void main(String[] args) {

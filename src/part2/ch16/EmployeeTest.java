@@ -1,4 +1,4 @@
-package ch16;
+package part2.ch16;
 
 public class EmployeeTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch11;
+package part2.ch11;
 
 public class MakeReportTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch18;
+package part2.ch18;
 
 public class Company {
     private static Company instance = new Company();
